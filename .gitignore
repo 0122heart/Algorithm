@@ -1,0 +1,23 @@
+# ==== 내가 작성한 소스파일만 예외 처리 ====
+!*.c
+!*.cpp
+!*.h
+
+# ==== 반드시 무시할 파일/폴더 ====
+.idea/
+cmake-build-*/
+build/
+CMakeLists.txt
+Makefile
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+install_manifest.txt
+
+*.o
+*.obj
+*.out
+*.exe
+*.log
+*.tmp
