@@ -19,5 +19,5 @@
 
 ### 문제
 
-- 12865_평범한배낭_골드5 (https://www.acmicpc.net/problem/12865)
+(25/07/14) 12865_평범한배낭_골드5 (https://www.acmicpc.net/problem/12865)
 - 
