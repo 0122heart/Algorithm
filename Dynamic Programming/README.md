@@ -1,4 +1,4 @@
-Dynamic Programming(DP)
+# Dynamic Programming(DP)
 
 
 
@@ -8,7 +8,7 @@ Dynamic Programming(DP)
 
 
 
-방식
+## 방식
 
 1\. TOP-DOWN : 
 
@@ -26,7 +26,7 @@ Dynamic Programming(DP)
 
 
 
-문제
+## 문제
 
 평범한 배낭(https://www.acmicpc.net/problem/12865)
 
