@@ -23,3 +23,4 @@
 - 12865_평범한배낭_골드5 (https://www.acmicpc.net/problem/12865)
 - 1351_무한 수열_골드5 (https://www.acmicpc.net/problem/1351)
 - 1354_무한 수열2_골드5 (https://www.acmicpc.net/problem/1354)
+- <25.07.28.월> 1949/우수마을/골드2(https://www.acmicpc.net/problem/1949)
