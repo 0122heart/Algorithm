@@ -5,3 +5,4 @@
 ### 문제
 
 - 2504_괄호의 값_골드5 (https://www.acmicpc.net/problem/2504)
+- <25.07.29.화> 15926/현욱이는괄호왕이야/골드3(https://www.acmicpc.net/problem/15926)
